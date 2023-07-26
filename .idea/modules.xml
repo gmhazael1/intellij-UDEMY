@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Desafios/Desafio01/Desafio01.iml" filepath="$PROJECT_DIR$/Desafios/Desafio01/Desafio01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafios/Desafio02/Desafio02.iml" filepath="$PROJECT_DIR$/Desafios/Desafio02/Desafio02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafios/Desafio03/Desafio03.iml" filepath="$PROJECT_DIR$/Desafios/Desafio03/Desafio03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafios/Desafio04/Desafio04.iml" filepath="$PROJECT_DIR$/Desafios/Desafio04/Desafio04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafios/Desafio05/Desafio05.iml" filepath="$PROJECT_DIR$/Desafios/Desafio05/Desafio05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafios/Desafio06/Desafio06.iml" filepath="$PROJECT_DIR$/Desafios/Desafio06/Desafio06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex10Aula19/Ex10Aula19.iml" filepath="$PROJECT_DIR$/Ex10Aula19/Ex10Aula19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex11Aula19/Ex11Aula19.iml" filepath="$PROJECT_DIR$/Ex11Aula19/Ex11Aula19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex1Aula02/Ex1Aula02.iml" filepath="$PROJECT_DIR$/Ex1Aula02/Ex1Aula02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex1Aula03/Ex1Aula03.iml" filepath="$PROJECT_DIR$/Ex1Aula03/Ex1Aula03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex1Aula04/Ex1Aula04.iml" filepath="$PROJECT_DIR$/Ex1Aula04/Ex1Aula04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex1Aula05/Ex1Aula05.iml" filepath="$PROJECT_DIR$/Ex1Aula05/Ex1Aula05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex1Aula06/Ex1Aula06.iml" filepath="$PROJECT_DIR$/Ex1Aula06/Ex1Aula06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex1Aula07/Ex1Aula07.iml" filepath="$PROJECT_DIR$/Ex1Aula07/Ex1Aula07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex1Aula08/Ex1Aula08.iml" filepath="$PROJECT_DIR$/Ex1Aula08/Ex1Aula08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex1Aula10/Ex1Aula10.iml" filepath="$PROJECT_DIR$/Ex1Aula10/Ex1Aula10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex1Aula11/Ex1Aula11.iml" filepath="$PROJECT_DIR$/Ex1Aula11/Ex1Aula11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex1Aula12/Ex1Aula12.iml" filepath="$PROJECT_DIR$/Ex1Aula12/Ex1Aula12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex1Aula13/Ex1Aula13.iml" filepath="$PROJECT_DIR$/Ex1Aula13/Ex1Aula13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex1Aula14/Ex1Aula14.iml" filepath="$PROJECT_DIR$/Ex1Aula14/Ex1Aula14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex1Aula15/Ex1Aula15.iml" filepath="$PROJECT_DIR$/Ex1Aula15/Ex1Aula15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex1Aula16/Ex1Aula16.iml" filepath="$PROJECT_DIR$/Ex1Aula16/Ex1Aula16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex1Aula17/Ex1Aula17.iml" filepath="$PROJECT_DIR$/Ex1Aula17/Ex1Aula17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex1Aula18/Ex1Aula18.iml" filepath="$PROJECT_DIR$/Ex1Aula18/Ex1Aula18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex1Aula20/Ex1Aula20.iml" filepath="$PROJECT_DIR$/Ex1Aula20/Ex1Aula20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex1Aula21/Ex1Aula21.iml" filepath="$PROJECT_DIR$/Ex1Aula21/Ex1Aula21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex1Aula22/Ex1Aula22.iml" filepath="$PROJECT_DIR$/Ex1Aula22/Ex1Aula22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex1Aula23/Ex1Aula23.iml" filepath="$PROJECT_DIR$/Ex1Aula23/Ex1Aula23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex1Aula23.1/Ex1Aula23.1.iml" filepath="$PROJECT_DIR$/Ex1Aula23.1/Ex1Aula23.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex1Aula9/Ex1Aula9.iml" filepath="$PROJECT_DIR$/Ex1Aula9/Ex1Aula9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex2Aula01/Ex2Aula01.iml" filepath="$PROJECT_DIR$/Ex2Aula01/Ex2Aula01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex2Aula02/Ex2Aula02.iml" filepath="$PROJECT_DIR$/Ex2Aula02/Ex2Aula02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex2Aula04/Ex2Aula04.iml" filepath="$PROJECT_DIR$/Ex2Aula04/Ex2Aula04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex2Aula06/Ex2Aula06.iml" filepath="$PROJECT_DIR$/Ex2Aula06/Ex2Aula06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex2Aula12/Ex2Aula12.iml" filepath="$PROJECT_DIR$/Ex2Aula12/Ex2Aula12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex2Aula18/Ex2Aula18.iml" filepath="$PROJECT_DIR$/Ex2Aula18/Ex2Aula18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex3Aula01/Ex3Aula01.iml" filepath="$PROJECT_DIR$/Ex3Aula01/Ex3Aula01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex3Aula04/Ex3Aula04.iml" filepath="$PROJECT_DIR$/Ex3Aula04/Ex3Aula04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex3Aula06/Ex3Aula06.iml" filepath="$PROJECT_DIR$/Ex3Aula06/Ex3Aula06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex3Aula12/Ex3Aula12.iml" filepath="$PROJECT_DIR$/Ex3Aula12/Ex3Aula12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex3Aula18/Ex3Aula18.iml" filepath="$PROJECT_DIR$/Ex3Aula18/Ex3Aula18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex4Aula01/Ex4Aula01.iml" filepath="$PROJECT_DIR$/Ex4Aula01/Ex4Aula01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex4Aula06/Ex4Aula06.iml" filepath="$PROJECT_DIR$/Ex4Aula06/Ex4Aula06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex4Aula18/Ex4Aula18.iml" filepath="$PROJECT_DIR$/Ex4Aula18/Ex4Aula18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex5Aula01/Ex5Aula01.iml" filepath="$PROJECT_DIR$/Ex5Aula01/Ex5Aula01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex5Aula06/Ex5Aula06.iml" filepath="$PROJECT_DIR$/Ex5Aula06/Ex5Aula06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex5Aula18/Ex5Aula18.iml" filepath="$PROJECT_DIR$/Ex5Aula18/Ex5Aula18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex6Aula01/Ex6Aula01.iml" filepath="$PROJECT_DIR$/Ex6Aula01/Ex6Aula01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex6Aula06/Ex6Aula06.iml" filepath="$PROJECT_DIR$/Ex6Aula06/Ex6Aula06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex6Aula18/Ex6Aula18.iml" filepath="$PROJECT_DIR$/Ex6Aula18/Ex6Aula18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex7Aula01/Ex7Aula01.iml" filepath="$PROJECT_DIR$/Ex7Aula01/Ex7Aula01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex7Aula06/Ex7Aula06.iml" filepath="$PROJECT_DIR$/Ex7Aula06/Ex7Aula06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex7Aula18/Ex7Aula18.iml" filepath="$PROJECT_DIR$/Ex7Aula18/Ex7Aula18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex8Aula01/Ex8Aula01.iml" filepath="$PROJECT_DIR$/Ex8Aula01/Ex8Aula01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex8Aula18/Ex8Aula18.iml" filepath="$PROJECT_DIR$/Ex8Aula18/Ex8Aula18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex9Aula19/Ex9Aula19.iml" filepath="$PROJECT_DIR$/Ex9Aula19/Ex9Aula19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/intellij-workspace-UDEMY1.iml" filepath="$PROJECT_DIR$/.idea/intellij-workspace-UDEMY1.iml" />
+    </modules>
+  </component>
+</project>
